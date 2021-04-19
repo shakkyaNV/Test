@@ -5,5 +5,6 @@ def multiply:
 	pass
 
 def addition(x,y):
-	return x+y
+	res = x+y
+	return res
 
